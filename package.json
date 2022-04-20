@@ -1,5 +1,5 @@
 {
-  "name": "bsn-cloud-core",
+  "name": "@77io/bsn-cloud-core",
   "description": "BSN.cloud Core Library",
   "version": "1.0.4",
   "main": "./main.js",
@@ -7,7 +7,7 @@
   "author": "BrightSign LLC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/brightsign/bsn-cloud-core"
+    "url": "git://github.com/77mke/bsn-cloud-core"
   },
   "license": "SEE LICENSE IN BrightSign Software License Agreement.pdf",
   "browser": {
